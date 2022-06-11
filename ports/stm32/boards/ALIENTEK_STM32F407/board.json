@@ -1,0 +1,15 @@
+{
+    "deploy": [
+        "../deploy.md"
+    ],
+    "docs": "",
+    "features": [],
+    "images": [
+        "STM32F407ZGT6.jpg"
+    ],
+    "mcu": "stm32f407ZG",
+    "product": "ATK-DNF407Z",
+    "thumbnail": "",
+    "url": "http://www.openedv.com/docs/boards/stm32/zdyz_stm32f407_mini_sysboard.html",
+    "vendor": "alientek"
+}
